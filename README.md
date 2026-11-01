@@ -45,11 +45,11 @@ A hospital wants a first-pass screening model that flags patients at higher risk
 - The signs of some coefficients (for example `ca`, `exang`, `thalach`) appear opposite to what clinical knowledge would suggest for "disease". This version of the Kaggle dataset is known to have its `target` label coded differently from the original UCI data, so the results are reported as associations with the `target` column exactly as provided.
 
 ## Screenshots
-![Disease rate by sex and chest pain](Images/01_disease_rate_sex_cp.png)
-![Max heart rate by target](Images/02_thalach_by_target.png)
-![Correlation heatmap](Images/03_correlation_heatmap.png)
-![Confusion matrix and ROC curve](Images/06_confusion_matrix_roc.png)
-![Feature coefficients](Images/07_coefficients.png)
+![Disease rate by sex and chest pain](https://raw.githubusercontent.com/bhoomigupta-31/AIML-Project-RollNo-2023308/main/Image/01_disease_rate_sex_cp.png)
+![Max heart rate by target](https://raw.githubusercontent.com/bhoomigupta-31/AIML-Project-RollNo-2023308/main/Image/02_thalach_by_target.png)
+![Correlation heatmap](https://raw.githubusercontent.com/bhoomigupta-31/AIML-Project-RollNo-2023308/main/Image/03_correlation_heatmap.png)
+![Confusion matrix and ROC curve](https://raw.githubusercontent.com/bhoomigupta-31/AIML-Project-RollNo-2023308/main/Image/06_confusion_matrix_roc.png)
+![Feature coefficients](https://raw.githubusercontent.com/bhoomigupta-31/AIML-Project-RollNo-2023308/main/Image/07_coefficients.png)
 
 ## Future Improvements
 - Try Random Forest and compare performance
