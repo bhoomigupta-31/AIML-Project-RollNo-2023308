@@ -57,4 +57,4 @@ A hospital wants a first-pass screening model that flags patients at higher risk
 - Deploy the model as a simple web app
 
 ## Author
-[Bhoomi Gupta}
+[Bhoomi Gupta]
